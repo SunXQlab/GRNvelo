@@ -21,4 +21,4 @@ conda activate OPCT
 pip install -r requirements.txt
 ```
 ## Examples
-You can run the model/Train_OPCT.py file to get the training process and results on the Veres data.
+You can run the ''' model/Train_OPCT.py ''' file to get the training process and results on the Veres data.
