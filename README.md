@@ -1,4 +1,5 @@
-# Multiscale Modeling of Cell Fate Decisions: Integrating Gene Regulatory Networks with Population Dynamics via Physics-Informed Neural Networks
+# Multiscale learning of dynamic gene network-driven phenotypic evolution of single cells
+
 
 ![Overview](Overview.png)
 
@@ -21,4 +22,4 @@ conda activate GRNvelo
 pip install -r requirements.txt
 ```
 ## Examples
-You can run the '' model/Train_OPCT.py '' file to get the training process and results on the Veres data.
+You can run the '' model/Train_GRNvelo.py '' file to get the training process and results on the Veres data.
