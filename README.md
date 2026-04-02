@@ -4,7 +4,7 @@
 
 
 ## Getting Started
-OPCT takes the input of time-series scRNA-seq data and outputs:
+GRNvelo takes the input of time-series scRNA-seq data and outputs:
 - infered the cell velocity in continuous time;
 - infered the cell trajectory in continuous time;
 - infered the cell growth;
@@ -16,8 +16,8 @@ OPCT takes the input of time-series scRNA-seq data and outputs:
 ## Requirements and Setup
 
 ```
-conda create -n OPCT python=3.8.10
-conda activate OPCT
+conda create -n GRNvelo python=3.8.10
+conda activate GRNvelo
 pip install -r requirements.txt
 ```
 ## Examples
