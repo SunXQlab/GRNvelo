@@ -1,4 +1,4 @@
-# Multiscale learning of dynamic gene network-driven phenotypic evolution of single cells
+# Multiscale learning of dynamic gene network-driven phenotypic dynamics of single cells
 
 
 ![Overview](Overview.png)
